@@ -1,6 +1,6 @@
 # Bootstrap grid SVG
 
-Collection of SVG files that represents the default Bootstrap grids depending on breakpoints.
+Collection of SVG files that represents the default Bootstrap (v4) grids depending on breakpoints.
 
 *Note that the small screens are not represents, because I find them pointless with the default settings*
 
